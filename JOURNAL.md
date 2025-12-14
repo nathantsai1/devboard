@@ -70,6 +70,7 @@ I also forgot to save edited PCB(add USBC instead of microUSB)
 ## changed USB-B to USB 2.0 (lot of work rerouting)
 uploaded files onto github
 redesign project according to submission guidelines
+Go find prices in JLCPSB and LCSC
 ![src\1-1.png](src\1-1.png)
 ![src\1-2.png](src\1-2.png)
 ![src\1-3.png](src\1-3.png)
